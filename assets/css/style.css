@@ -1,0 +1,79 @@
+@media only screen and (max-width: 600px) {
+.checkout-spec-oo {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	width:95%;
+	display: none;
+    text-align: center;
+    opacity: .99;
+    z-index: 10000;	
+	line-height:1.2!important;
+	max-width:550px;
+}
+.checkout-spec-oofb {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	width:95%;
+	display: none;
+    text-align: center;
+    opacity: .99;
+    z-index: 9999;		
+	line-height:1.2!important;
+	max-width:550px;
+}
+}
+@media only screen and (min-width: 600px) {
+.checkout-spec-oo {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	width:70%;
+	display: none;
+    text-align: center;
+    opacity: .99;
+    z-index: 10000;
+	line-height:1.2!important;
+	max-width:600px;
+}
+.checkout-spec-oofb {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	width:70%;
+	display: none;
+    text-align: center;
+    opacity: .99;
+    z-index: 9999;
+	line-height:1.2!important;
+	max-width:600px;
+}
+}
+
+@media only screen and (min-width: 600px) {
+.buttoncostyle {
+width:60%!important;
+}
+}
+@media only screen and (max-width: 600px) {
+.buttoncostyle {
+width:90%!important;	
+}
+}
+.overlay-box {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 110;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 0.2s;
+}

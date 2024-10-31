@@ -1,0 +1,329 @@
+/** plugin admin styles **/
+.column-red{
+padding-left:8px!important;	
+padding-right:8px!important;
+background-color: #bb4b49!important;
+color: #fff!important;	
+text-align:center;
+}
+.column-green{
+padding-left:8px!important;	
+padding-right:8px!important;
+background-color: #2f8730!important;
+color: #fff!important;	
+text-align:center;
+}
+.Amount{
+width:250px!important;	
+}
+.Usage{
+width:250px!important;		
+}
+.ProductIDsbox{
+width:250px!important;	
+}
+.ProductIDs{
+    overflow: auto!important;
+    vertical-align: top!important;
+    width: 500px!important;
+    font-size: 15px!important;
+    font-family: "Open Sans",sans-serif!important;
+}
+.wp-core-ui select {
+width:250px!important;
+}
+.recexit-title {
+	padding: 0;
+	margin: 1em 0 0.5em 0;
+	font-size: 32px;
+}
+.recexit-sub-title {
+	padding: 0;
+	margin: 1em 0 0.5em 0;
+	font-size: 22px;
+}
+.admin-spacer {
+    clear: both;
+}
+.backend-font-heavy{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 14px;
+	font-weight:500;
+    line-height: 1.4em;
+}
+.backend-font-light{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 14px;
+	font-weight:400;
+    line-height: 1.4em;
+}
+
+.gen_button_sign {
+    display: block!important;
+    margin-bottom: 12.73913043px!important;
+    max-width: 100%!important;
+}
+.sign-up-button1 {
+    color: #fff!important;
+    border-color: #268cbe!important;
+    background-color: #268cbe!important;
+    font-size: 14px!important;
+	font-weight: 600!important;
+    padding-top: 11px!important;
+    padding-bottom: 11px!important;
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    border-radius: 5px!important;
+}
+.sign-up-button1:hover {
+    border-color: #2582b0!important;
+    background-color: #2582b0!important;	
+}
+.backend-font-heavy-big{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+	font-weight:500;
+    line-height: 1.4em;
+}
+.backend-font-light-big{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 16px;
+	font-weight:400;
+    line-height: 1.4em;
+}
+.backend-recexit-stats{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 16px;
+	font-weight:400;
+}
+.backend-recexit-stats-small{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 12px;
+	font-weight:400;
+    line-height: 0.8em;		
+}
+.upgrade_recexit_button{
+    color: #fff!important;
+    border-color: #268cbe!important;
+    background-color: #268cbe!important;
+    font-size: 13px!important;
+	font-weight: 600!important;
+    padding-top: 11px!important;
+    padding-bottom: 11px!important;
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    border-radius: 5px!important;	
+}
+.upgrade_recexit_button:hover {
+    border-color: #2582b0!important;
+    background-color: #2582b0!important;
+}
+.clear-font-text{
+    color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 16px;
+	font-weight:400;
+    line-height: 0.8em;	
+}
+.red_button_1{
+    color: #fff!important;
+    border-color: #bb4b49!important;
+    background-color: #bb4b49!important;
+    font-size: 13px!important;
+	font-weight: 600!important;
+    padding-top: 11px!important;
+    padding-bottom: 11px!important;
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    border-radius: 5px!important;	
+}
+.red_button_1:hover {
+    border-color: #b93533!important;
+    background-color: #b93533!important;
+}
+.backendsearchrecexit{
+    overflow: auto;
+    vertical-align: top;
+    width: 700px;
+    font-size: 15px;
+    font-family: "Open Sans",sans-serif;
+}
+.codesbox{
+    overflow: auto;
+    vertical-align: top;
+    width: 250px;
+    font-size: 15px;
+    font-family: "Open Sans",sans-serif;
+}
+.rawlookupbox{
+    overflow: auto;
+    vertical-align: top;
+    width: 500px;
+    font-size: 15px;
+    font-family: "Open Sans",sans-serif;
+}
+.lookup-tool-search-recexit {
+    color: #fff!important;
+    border-color: #268cbe!important;
+    background-color: #268cbe!important;
+    font-size: 14px!important;
+	font-weight: 600!important;
+    padding-top: 11px!important;
+    padding-bottom: 11px!important;
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    border-radius: 5px!important;
+}
+.lookup-tool-search-recexit:hover {
+    border-color: #2582b0!important;
+    background-color: #2582b0!important;	
+}
+.green-button-ck {
+    color: #fff!important;
+    border-color: #2f8730!important;
+    background-color: #2f8730!important;
+    font-size: 14px!important;
+	font-weight: 600!important;
+    padding-top: 11px!important;
+    padding-bottom: 11px!important;
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    border-radius: 5px!important;
+}
+.green-button-ck:hover {
+    border-color: #309431!important;
+    background-color: #309431!important;	
+}
+.admintextarea{
+width:250px!important;	
+}
+.activitylog{
+    overflow: auto;
+    vertical-align: top;
+    width: 400px;
+    font-size: 15px;
+    font-family: "Open Sans",sans-serif;	
+}
+table tbody tr, table thead tr {
+    border: 1px solid #e1e1e1!important;
+}
+.tablestats {
+    border-collapse: collapse!important;
+    border-spacing: 0!important;
+    margin-bottom: 1em!important;
+    border: none!important;
+	font-size: 16px!important;	
+}
+.tablestats .odd td {
+    background-color: #f9f9f9;
+}
+.tablestats .even td {
+    background-color: #fff;
+}
+.tablestats .thead{
+background-color: #f9f9f9!important;	
+}
+.column-1{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-2{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-3{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-4{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-5{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-6{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-7{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-8{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-9{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.column-10{
+padding-left:8px!important;	
+padding-right:8px!important;	
+}
+.clear-logs-btn {
+    color: #fff!important;
+    border-color: #707070!important;
+    background-color: #707070!important;
+    font-size: 14px!important;
+    font-weight: 600!important;
+    padding-top: 11px!important;
+    padding-bottom: 11px!important;
+    padding-left: 16px!important;
+    padding-right: 16px!important;
+    border-radius: 5px!important;
+}
+#settingsupdater {
+    cursor: pointer!important;
+    font-size: 16px!important;
+    line-height: 2!important;
+    font-weight: 500!important;
+}
+.main-menu-container{
+    margin: 0 auto!important;
+    text-align: center!important;
+}
+@media only screen and (max-width: 700px) {
+.menu-item-container{
+margin-left:10px!important;	
+width: 275px!important;
+text-align: center!important;
+margin-top: 20px!important;
+margin-bottom: 20px!important;
+padding: 10px!important;
+float: left!important;	
+}	
+}
+@media only screen and (min-width: 700px) {
+.menu-item-container{
+margin-left:10px!important;	
+width: 320px!important;
+text-align: center!important;
+margin-top: 20px!important;
+margin-bottom: 20px!important;
+padding: 10px!important;
+float: left!important;	
+}
+}
+@media only screen and (min-width: 1100px) {
+.menu-item-container{
+margin-left:40px!important;	
+width: 320px!important;
+text-align: center!important;
+margin-top: 20px!important;
+margin-bottom: 20px!important;
+padding: 10px!important;
+float: left!important;	
+}
+}
+.menu_item_text{
+text-align: center!important;	
+}
